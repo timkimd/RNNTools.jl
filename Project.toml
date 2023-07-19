@@ -1,0 +1,23 @@
+name = "RNNTools"
+uuid = "26172e16-81c1-454e-824a-1f6790a1377f"
+authors = ["Timothy Doyeon Kim"]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
+DiffEqFlux = "aae7a2af-3d4f-5e19-a356-7da93b79d9d0"
+DiffEqSensitivity = "41bf760c-e81c-5289-8e54-58b1f1f8abe2"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OrdinaryDiffEq = "1dea7af3-3e70-54e6-95c3-0bf5283fa5ed"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
